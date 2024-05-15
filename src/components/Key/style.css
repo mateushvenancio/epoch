@@ -1,0 +1,8 @@
+.key {
+    height: 2rem;
+    width: 2rem;
+    border: solid 1px white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

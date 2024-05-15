@@ -1,0 +1,10 @@
+.row {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    padding-top: .75rem;
+}
+
+.canva {
+    padding: 1rem 0;
+}
